@@ -12,23 +12,27 @@ The volume serial number is a 32-bit number determined by the date and time on t
 
 ## Usage
 There are three ways to do this:  
-1: Just run the exe file located in the BIN folder.  
-   This has been compiled out of the original visual basic file.
-   It has also gotten itself a nice icon image to make it pretty.
+**--{1}--**  
+Just run the exe file located in the BIN folder.  
+This has been compiled out of the original visual basic file.
+It has also gotten itself a nice icon image to make it pretty.
    
-2: Just run the VBS file.
-   That's it..  
-   Feel free to modify it as you wish!
+**--{2}--**  
+Just run the VBS file.
+That's it..  
+Feel free to modify it as you wish!
+
+**--{3}--**  
+Forget about this application\script,  
+Click on the start menu  
+Type in "CMD",  
+hit enter  
+Navigate to the drive you need the ID number from  
+Type in "vol"  
+Hit enter..
    
-3: Forget about this application\script,  
-   Click on the start menu  
-   Type in "CMD", and hit enter  
-   Navigate to the drive you need the ID number from  
-   Type in "vol"  
-   Hit enter..
-   
-   Really lots of work, takes ages!  
-   Just look at all the steps! :stuck_out_tongue_winking_eye:
+Really lots of work, takes ages!  
+Just look at all the steps! :stuck_out_tongue_winking_eye:
    
 ## What could this possible be useful for?
 Well, not much. At least not from what i can find.  
