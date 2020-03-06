@@ -17,20 +17,20 @@ There are three ways to do this:
    It has also gotten itself a nice icon image to make it pretty.
    
 2: Just run the VBS file.
-   That's it..
+   That's it..  
    Feel free to modify it as you wish!
    
-3: Forget about this application\script,
-   Click on the start menu
-   Type in "CMD", and hit enter
-   Navigate to the drive you need the ID number from
-   Type in "vol"
+3: Forget about this application\script,  
+   Click on the start menu  
+   Type in "CMD", and hit enter  
+   Navigate to the drive you need the ID number from  
+   Type in "vol"  
    Hit enter..
    
-   Really lots of work, takes ages!
+   Really lots of work, takes ages!  
    Just look at all the steps! :stuck_out_tongue_winking_eye:
    
 ## What could this possible be useful for?
-Well, not much. At least not from what i can find.
-Some may say it's a safety check as the id number will change should the disk or volume be altered\changed in any way,  
+Well, not much. At least not from what i can find.  
+Some may say it's a safety check as the id number will change should the disk or volume be altered\changed in any way,    
 BUT i did once encountered an application that required to know the ID number it was installed on back in 2010.
